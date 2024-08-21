@@ -15,6 +15,6 @@
 - **Most Popular Size**: Large
 - **Top Pizza Category**: Classic
 - **Average Pizzas per Order**: Approximately 2
-- **Highest Order Days**: Friday and Saturday
+- **Highest Order Days**: Friday 
 - **Peak Order Timings**: 12 PM to 1 PM and 5 PM to 6 PM
 - **Highest Revenue Generator**: The Thai Chicken Paneer Pizza
