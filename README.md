@@ -9,12 +9,12 @@ Power BI Dashboard
 
 
 Insights:
-
-The Classic Deluxe Pizza is the Best Seller by quantity
-Worst Seller - The Brie Carre Pizza
-Most people order Large size pizza
-Classic pizza category is the Best seller Pizza Category
-Average pizza per order is approximately 2 
-Orders are highest on Friday and Saturday
-Peak Order timings are from 12 pm to 1 pm and 5 pm to 6 pm
-The Thai Chicken Paneer Pizza generates the most revenue
+<br/>
+*The Classic Deluxe Pizza is the Best Seller by quantity
+*Worst Seller - The Brie Carre Pizza
+*Most people order Large size pizza
+*Classic pizza category is the Best seller Pizza Category
+*Average pizza per order is approximately 2 
+*Orders are highest on Friday and Saturday
+*Peak Order timings are from 12 pm to 1 pm and 5 pm to 6 pm
+*The Thai Chicken Paneer Pizza generates the most revenue
